@@ -1,0 +1,45 @@
+{
+    "name": "infinity-dark-theme",
+    "displayName": "infinity dark theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "nadim-vscode",
+    "author": {
+        "name": "Nadim Al Abdou",
+        "url": "https://nalabdou.com"
+    },
+    "icon": "infinity.png",
+    "homepage": "https://github.com/nalabdou/infinity-theme/blob/master/README.md",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nalabdou/infinity-theme"
+    },
+    "bugs": "https://github.com/nalabdou/infinity-theme",
+    "galleryBanner": {
+        "color": "#193549",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark theme",
+        "theme dark",
+        "dark",
+        "blue theme",
+        "theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Infinity Dark Theme Eye Friendly Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Infinity-color-theme.json"
+            }
+        ]
+    }
+}
