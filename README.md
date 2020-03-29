@@ -6,16 +6,16 @@
 
 ### PhP
 
-![php](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/phpLang.png)
+![php](https://rawcdn.githack.com/nalabdou/infinity-theme/78b2366380828a399ce7a628ec6ed9d319e9d40c/images/phpLang.png)
 
 ### Twig
 
-![twig](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/twigLang.png)
+![twig](https://rawcdn.githack.com/nalabdou/infinity-theme/78b2366380828a399ce7a628ec6ed9d319e9d40c/images/twigLang.png)
 
 ### JS
 
-![js](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/jsLang.png)
+![js](https://rawcdn.githack.com/nalabdou/infinity-theme/78b2366380828a399ce7a628ec6ed9d319e9d40c/images/jsLang.png)
 
 ### Css & Sass
 
-![csssass](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/cssLang.png)
+![csssass](https://rawcdn.githack.com/nalabdou/infinity-theme/78b2366380828a399ce7a628ec6ed9d319e9d40c/images/cssLang.png)
