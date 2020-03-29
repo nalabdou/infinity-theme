@@ -1,14 +1,21 @@
-# This is the README for your extension "infinity-dark-theme"
+# Infinity Dark Color Vs Code Theme
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Eyes Friendly Colors Blue & Yellow & Green & Orange
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/nadim-vscode.infinity-dark-theme?style=for-the-badge)
 
-## For more information
+### PhP
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![php](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/phpLang.png)
 
-**Enjoy!**
+### Twig
+
+![twig](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/twigLang.png)
+
+### JS
+
+![js](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/jsLang.png)
+
+### Css & Sass
+
+![csssass](https://rawcdn.githack.com/nalabdou/infinity-theme/master/images/cssLang.png)
