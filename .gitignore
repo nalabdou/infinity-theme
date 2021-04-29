@@ -2,3 +2,4 @@
 /.vscode/
 .vscodeignore
 /node_modules
+*.vsix

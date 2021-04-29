@@ -2,7 +2,7 @@
     "name": "infinity-dark-theme",
     "displayName": "infinity dark theme",
     "description": "vs code dark theme very good for your eyes ",
-    "version": "0.1.0",
+    "version": "1.0.1",
     "publisher": "nadim-vscode",
     "author": {
         "name": "Nadim Al Abdou",
@@ -41,5 +41,7 @@
                 "path": "./themes/Infinity-color-theme.json"
             }
         ]
-    }
+    },
+    "dependencies": {},
+    "devDependencies": {}
 }
